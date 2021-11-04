@@ -25,5 +25,5 @@ jobs:
       env:
         LINKEDIN_ORGANIZATION: ${{ secrets.LINKEDIN_ORGANIZATION }}
         LINKEDIN_TOKEN: ${{ secrets.LINKEDIN_TOKEN }}
-        ORBIT_API_KEY: ${{ secrets.ORBIT_API_KEY }}
+        ORBIT_API_KEY: ${{ secrets.obu_FXW5UBx64CSqO6KNGMEl6XpDINKSZxmX_EO5Dv4A }}
         ORBIT_WORKSPACE_ID: ${{ secrets.ORBIT_WORKSPACE_ID }}
